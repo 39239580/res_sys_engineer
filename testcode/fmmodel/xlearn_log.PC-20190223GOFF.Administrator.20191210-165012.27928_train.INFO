@@ -1,0 +1,18 @@
+Tue Dec 10 16:50:13 2019
+ C:\projects\xlearn\src\solver\solver.cc:207 (xLearn::Solver::init_train) Start to init Reader
+Tue Dec 10 16:50:13 2019
+ C:\projects\xlearn\src\solver\solver.cc:272 (xLearn::Solver::init_train) Number of Reader: 2
+Tue Dec 10 16:50:13 2019
+ C:\projects\xlearn\src\solver\solver.cc:315 (xLearn::Solver::init_train) Number of feature: 4
+Tue Dec 10 16:50:13 2019
+ C:\projects\xlearn\src\solver\solver.cc:360 (xLearn::Solver::init_train) Number parameters: 6
+Tue Dec 10 16:50:13 2019
+ C:\projects\xlearn\src\solver\solver.cc:380 (xLearn::Solver::init_train) Initialize score function.
+Tue Dec 10 16:50:13 2019
+ C:\projects\xlearn\src\solver\solver.cc:388 (xLearn::Solver::init_train) Initialize loss function.
+Tue Dec 10 16:50:13 2019
+ C:\projects\xlearn\src\solver\solver.cc:396 (xLearn::Solver::init_train) Initialize evaluation metric.
+Tue Dec 10 16:50:13 2019
+ C:\projects\xlearn\src\solver\solver.cc:520 (xLearn::Solver::StartWork) Start training work.
+Tue Dec 10 16:50:13 2019
+ C:\projects\xlearn\src\solver\solver.cc:621 (xLearn::Solver::Clear) Clear the xLearn environment ...
